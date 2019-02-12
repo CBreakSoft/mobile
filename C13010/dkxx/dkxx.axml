@@ -10,6 +10,9 @@
     </block>
   </tabs>
 
+
+  
+
    <view style={{display:activeTab===0?"block":"none"}}>
            <view  class='tab-content;'  >
            <view class="page-section" style="margin-top: 10px; border-top: 1px solid;border-top-color: #f3e9e9;">
